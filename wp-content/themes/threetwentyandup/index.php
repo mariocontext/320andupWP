@@ -47,9 +47,6 @@ Port to Wordpress: mario noble https://github.com/mariocontext/320andupWP
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="css/320andup.css">
-
 <!--[if (lt IE 9) & (!IEMobile)]>
 <script src="js/selectivizr-min.js"></script>
 <![endif]-->
